@@ -9,3 +9,4 @@ Hi there 👋
 - 📫 How to reach me: @uchenna_dev on twitter
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding makes me happy
+- ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
